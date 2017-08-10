@@ -44,3 +44,6 @@ h5 {
 .page-bg {
     background-color: #f0f0f0;
 }
+.linkstyle:link {
+    color: black;
+}
