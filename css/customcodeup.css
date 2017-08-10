@@ -47,3 +47,19 @@ h5 {
 .linkstyle:link {
     color: black;
 }
+
+.title-top-margin {
+    margin-bottom: 0;
+}
+.title-bottom-margin {
+    margin-top: 0;
+}
+
+.city-margin {
+    margin: 2em 0;
+}
+
+.color-circle {
+    height: 105px;
+    width: 105px;
+}
