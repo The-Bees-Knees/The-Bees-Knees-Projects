@@ -59,9 +59,17 @@ h5 {
     margin: 2em 0;
 }
 
-.color-circle {
+.circle {
+
     height: 105px;
     width: 105px;
+    border: solid 5px white;
+    border-radius: 100%;
+
+}
+
+.circle-border {
+    border: solid 5px black;
 }
 
 .red {
