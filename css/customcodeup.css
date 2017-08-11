@@ -127,20 +127,35 @@ h5 {
     margin-top: .5em;
     margin-bottom: 50px;
 }
+
 /* Extra small devices (phones, less than 768px) */
 /* No media query since this is the default in Bootstrap */
 
 /* Small devices (tablets, 768px and up) */
-@media (min-width:@screen-sm-min) {
+@media screen and (min-width:768px) {
+    .circle-left-margin, .circle-right-margin{
+        margin: 0;
+    }
+    .separator{
+        color: black;
+        height: 2px;
+        border: none;
+        background-color:#CCC;
+    }
+
+    .selected-work-margin{
+        margin-top: 25px;
+    }
+
 
 }
 
 /* Medium devices (desktops, 992px and up) */
-@media (min-width:@screen-md-min) {
+@media screen and (min-width:992px) {
 
 }
 
 /* Large devices (large desktops, 1200px and up) */
-@media (min-width:@screen-lg-min) {
+@media screen and (min-width:1200px) {
 
 }
