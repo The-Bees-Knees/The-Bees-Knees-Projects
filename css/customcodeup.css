@@ -124,6 +124,7 @@ h5 {
 }
 
 .bottom-row-margin {
+    margin-top: .5em;
     margin-bottom: 50px;
 }
 /* Extra small devices (phones, less than 768px) */
@@ -133,7 +134,6 @@ h5 {
 @media (min-width:@screen-sm-min) {
 
 }
-
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width:@screen-md-min) {
