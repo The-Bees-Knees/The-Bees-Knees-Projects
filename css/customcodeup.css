@@ -135,6 +135,23 @@ h5 {
 
 /* Small devices (tablets, 768px and up) */
 @media screen and (min-width:768px) {
+    .nav-bar-text-margin {
+        margin: 10px;
+        position: relative;
+        bottom: 17px;
+    }
+
+    .title-top-margin,
+    .title-bottom-margin
+    {
+        margin-bottom: auto;
+        margin-top: auto;
+    }
+    .title-text-alignment {
+        text-align: right;
+    }
+
+
     .circle-left-margin, .circle-right-margin{
         margin: 0;
     }
