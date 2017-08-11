@@ -124,8 +124,10 @@ h5 {
 }
 
 .bottom-row-margin {
-    margin-top: .5em;
     margin-bottom: 50px;
+}
+.text-top-margin {
+    margin-top: .5em;
 }
 
 /* Extra small devices (phones, less than 768px) */
