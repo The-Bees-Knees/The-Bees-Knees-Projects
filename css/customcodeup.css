@@ -79,6 +79,13 @@ h5 {
     border: solid 5px black;
 }
 
+.circle-small{
+    width: 18px;
+    height: 18px;
+    border-radius: 100%;
+
+}
+
 .red {
     background-color: #e6563b
 }
@@ -100,14 +107,18 @@ h5 {
 }
 
 .selected-work-margin{
-    margin-top: 100px;
+    margin-top: 125px;
 }
 
 .ipad-image{
-    width: 70%;
+    width: 90%;
     border: 12px solid #E6E6E6;
     border-radius: 2%;
 }
 .ipad-margin{
     margin-top: 40px;
+}
+
+.bottom-row-margin {
+    margin-bottom: 50px;
 }
