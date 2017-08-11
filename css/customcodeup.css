@@ -67,6 +67,13 @@ h5 {
     border-radius: 100%;
 
 }
+.circle-left-margin {
+    margin: 5px 5px 5px auto;
+}
+
+.circle-right-margin {
+    margin: 5px auto 5px 5px;
+}
 
 .circle-border {
     border: solid 5px black;
@@ -86,7 +93,8 @@ h5 {
 }
 
 .circle-text{
+    font-size: 20px;
     text-align: center;
-    margin-top: 35px;
+    margin-top: 33px;
     color:#FFF;"
 }
