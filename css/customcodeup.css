@@ -75,6 +75,15 @@ h5 {
 .red {
     background-color: #e6563b
 }
+.orange {
+    background-color: #dda03d;
+}
+.green {
+    background-color: #7cb06c;
+}
+.blue {
+    background-color: #00aba9;
+}
 
 .circle-text{
     text-align: center;
